@@ -1,9 +1,12 @@
 Learning Git APP
 commands
 git config --global user.name "name"
-
+git config --global user.email "gmail.com"
 git add file name
-git clone repository name
+git clone repository URL
 ls
+cd gitrepositoryname
 git commit -m "comments" file name
-git push -u 
+git push -u origin master
+git pull -u origin master
+git status
